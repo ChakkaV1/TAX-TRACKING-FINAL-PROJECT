@@ -2,13 +2,13 @@
 
 ## Overview
 
-The Tax and Payment Tracking System is a web application designed to help businesses manage their financial transactions and tax obligations. Built using Flask, SQLAlchemy, and JavaScript (for dynamic interactivity), it simplifies tracking and managing payments, enhancing financial accuracy and compliance.
+The Tax and Payment Tracking System is a web application designed to help small businesses manage tax payments and financial records. Built with Flask, SQLAlchemy, and JavaScript, it offers a user-friendly platform for tracking, updating, and analyzing payment data efficiently.
 
 ## Features
-1. Payment Records Management: Add, edit, and delete payment details, including company name, amount, dates, and payment status.
-2. Tax Calculation: Automatically calculates taxes due based on recorded payments.
-3. Dynamic Reporting: Filter and view payment summaries based on due dates for timely financial management.
-4. Interactive UI: JavaScript enhances the user interface, enabling dynamic updates and seamless interactions without refreshing the page.
+1. Payment Management: Add, update, and delete payment records with ease.
+2. Automated Tax Calculations: Dynamically calculates taxes based on payment data.
+3. Filter-Based Reporting: View and filter payment summaries by due dates.
+4. Interactive UI: Provides seamless updates and dynamic interactions via JavaScript.
 
 ## Built With
 Flask: Web framework for building the application.
