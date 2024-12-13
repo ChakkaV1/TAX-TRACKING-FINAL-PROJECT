@@ -30,20 +30,16 @@ Clone the Repository:
 git clone https://github.com/ChakkaV1/TAX-TRACKING-FINAL-PROJECT.git
 cd TAX-TRACKING-FINAL-PROJECT
 
-```bash
 Create a virtual environment:
 python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 
-```bash
 Install required Python packages:
 Flask, Sqlalchemy
 
-```bash
 Run the Application:
 python app.py
 
-```bash
 Access the Application:
 Open your browser and go to http://127.0.0.1:5000.
 
