@@ -11,17 +11,17 @@ The Tax and Payment Tracking System is a web application designed to help small 
 4. Interactive UI: Provides seamless updates and dynamic interactions via JavaScript.
 
 ## Built With
-Flask: Web framework for building the application.
-SQLAlchemy: ORM (Object-Relational Mapping) library for managing the SQLite database.
-SQLite: Lightweight database for storing payment records.
-HTML/CSS: Structure and styling for the web interface.
-JavaScript: Enhances interactivity, enabling features like filtering and dynamic dropdown updates.
+Flask: Web framework for building the application.   
+SQLAlchemy: ORM (Object-Relational Mapping) library for managing the SQLite database.    
+SQLite: Lightweight database for storing payment records.   
+HTML/CSS: Structure and styling for the web interface.     
+JavaScript: Enhances interactivity, enabling features like filtering and dynamic dropdown updates.   
 
 ## Getting Started
 Follow these steps to get a copy of the project up and running on your local machine.
 
 ## Prerequisites
-Python 3.6+
+Python 3.6+   
 A modern web browser (e.g., Chrome, Firefox, or Edge).
 
 ## Setup
